@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmowIODCkphIzJaNJsvLmGAIuTOXwIDUX946GCUB30HoQ4Ngh8XdLV1v62JLkxltq1Fnn8atSrDa5AfBGoOj3Q==",
+  "success": true,
+  "projectFilePath": "/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4.iOS/lab4.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/maksimkaplun/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/maksimkaplun/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/maksimkaplun/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

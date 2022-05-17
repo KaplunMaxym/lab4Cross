@@ -1,0 +1,33 @@
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/bin/Debug/netstandard2.0/lab4.deps.json
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/bin/Debug/netstandard2.0/lab4.dll
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/bin/Debug/netstandard2.0/lab4.pdb
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/lab4.csproj.AssemblyReference.cache
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/App.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/Views/NoteEntryPage.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/Views/NotesPage.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/lab4.AssemblyInfoInputs.cache
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/lab4.AssemblyInfo.cs
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/lab4.csproj.CoreCompileInputs.cache
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/XamlC.stamp
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/lab4.dll
+E:/Work/Programming/C#/Cross-platform programming/lab4/lab4/obj/Debug/netstandard2.0/lab4.pdb
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/bin/Debug/netstandard2.0/lab4.deps.json
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/bin/Debug/netstandard2.0/lab4.dll
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/bin/Debug/netstandard2.0/lab4.pdb
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/lab4.csproj.AssemblyReference.cache
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/Views/NoteEntryPage.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/Views/NotesPage.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/lab4.AssemblyInfoInputs.cache
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/lab4.AssemblyInfo.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/lab4.csproj.CoreCompileInputs.cache
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/lab4.dll
+/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/obj/Debug/netstandard2.0/lab4.pdb

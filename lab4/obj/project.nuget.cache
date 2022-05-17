@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRhRpoIr0PQVbJlMW2BLAR7WRMAPjMVmMpEpmb6283v0QH/M6On09ms+Z0EB1QxeFU10CZZy6/qxeLF4lPFRsg==",
+  "success": true,
+  "projectFilePath": "/Users/maksimkaplun/ТНТУ/crossplatform/lab4/lab4/lab4.csproj",
+  "expectedPackageFiles": [
+    "/Users/maksimkaplun/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/maksimkaplun/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/maksimkaplun/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/maksimkaplun/.nuget/packages/xamarin.essentials/1.7.3/xamarin.essentials.1.7.3.nupkg.sha512",
+    "/Users/maksimkaplun/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
